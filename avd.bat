@@ -1,0 +1,1 @@
+C:\Users\Science\AppData\Local\Android\Sdk\emulator\emulator -avd pixel3
